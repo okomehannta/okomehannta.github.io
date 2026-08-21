@@ -6,3 +6,12 @@ body {
     background-color: black;
     color: white;
 }
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
