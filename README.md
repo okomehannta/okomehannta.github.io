@@ -1,3 +1,4 @@
 # okomehannta.github.io
 
-あああ
+googlesiteで運営していた廃墟のようなサイト
+htmlとgithubで開設してみたよ
